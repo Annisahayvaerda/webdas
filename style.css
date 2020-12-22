@@ -1,0 +1,27 @@
+@charset "utf-8";
+ .h{
+    border: 8px groove #2bd7dd;
+	background: #3aa7af;
+ }
+ .posisi{
+    position: absolute;
+    margin-left: 50;
+    margin-right: 50;
+    margin-bottom: 50;
+    margin-top: 50;
+    left: 10;
+    right: 10;
+    top: 10;
+    bottom: 20;
+ }
+
+#wa{
+	height: 150px;	
+	width: 1000px;	
+	border-radius: 5px 5px 0 0;
+}
+#menu{
+	height: 30px;		
+	width: 1000px;
+	background-color:#c2ce24;
+}
